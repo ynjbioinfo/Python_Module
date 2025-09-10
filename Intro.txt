@@ -1,0 +1,10 @@
+What is Python?
+Definition:
+• Python is a high-level, interpreted programming language that is easy to learn and
+use due to its simple and clean syntax. It is a general-purpose language suitable
+for a variety of applications.
+Key Characteristics:
+• Interpreted, not compiled.
+• Dynamically typed.
+• Object-oriented, imperative, and functional programming features.
+• Focus on code readability
